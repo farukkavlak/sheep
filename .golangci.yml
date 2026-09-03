@@ -1,0 +1,15 @@
+version: "2"
+
+linters:
+  default: none
+  enable:
+    - errcheck      # an ignored error is the only silent failure Go allows
+    - govet
+    - staticcheck
+    - ineffassign
+    - revive
+
+formatters:
+  enable:
+    - gofumpt
+    - goimports
