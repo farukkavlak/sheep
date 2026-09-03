@@ -1,0 +1,15 @@
+# Build output
+/bin/
+
+# Test and coverage artifacts
+*.out
+*.test
+
+# Local environment
+.env
+.env.*
+
+# Editor and OS
+.DS_Store
+.idea/
+.vscode/
