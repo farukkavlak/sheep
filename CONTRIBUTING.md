@@ -63,7 +63,7 @@ Anything that constrains future code gets an ADR before the code lands:
 docs/adr/0007-transactional-outbox.md
 ```
 
-Numbers are sequential and never reused. Each ADR states its status (`Proposed`, `Accepted`, `Superseded by 0012`), the context, the decision, and the consequences — including the ones we dislike. Superseding an ADR means writing a new one, not editing the old.
+Numbers are sequential and never reused. An ADR states the context, the decision, the reasons, and the consequences — including the ones we dislike. Only decisions we took are written down, so there is no status field. Superseding an ADR means writing a new one and adding one line to the old: `Superseded by 0012.`
 
 ## Learning notes
 

@@ -36,7 +36,9 @@ Binding rules for anyone working in this repository, human or AI.
 
 ## Language
 
-All code, comments, documentation, commit messages and issues are written in English. Prose is short and technical. No filler, no hedging, no restating the obvious.
+All code, comments, documentation, commit messages and issues are written in English.
+
+Use simple English. Short sentences, plain words, no metaphors and no flourish. State the decision, give the reason, stop. Do not restate the obvious, do not hedge, do not pad. A document is finished when nothing can be removed without losing meaning.
 
 ## Conventions
 
